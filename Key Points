@@ -1,0 +1,28 @@
+an analysis to examine various factors influencing accidents, such as fatal casualties, serious casualties, slight casualties, weather conditions, road conditions, location, road type, and road surface. Below are some key points you could include on your GitHub project description:
+
+Key Points of the Accident Analysis Project
+Objective:
+
+The project aims to analyze accident data to identify patterns and correlations between different factors affecting the severity of accidents.
+Casualty Analysis:
+
+Calculated and analyzed the total number of fatal casualties, serious casualties, and slight casualties to understand the distribution of accident severities using multiple KPIs.
+Identified trends in all types of casualties to highlight the most frequent causes and conditions associated with severe accidents.
+Impact of External Conditions:
+
+Weather Condition Analysis: Investigated how different weather conditions correlate with accident severity.
+Road Condition Analysis: Assessed the impact of road conditions on accident rates and severity.
+Location-Based Insights:
+
+Analyzed accident data based on location to identify high-risk areas.
+Conducted a spatial analysis to pinpoint accident-prone zones and suggest targeted safety improvements.
+Road Type and Surface Analysis:
+
+Examined accidents based on road type to determine which types of roads are most prone to accidents.
+Studied the effect of road surface conditions on accident severity.
+
+Provided actionable insights to improve road safety measures based on identified patterns.Suggested improvements to infrastructure, road signage, and preventive measures during adverse weather conditions to reduce accidents.
+
+Tools and Technologies Used:
+Tableau for creating interactive dashboards to explore accident patterns and trends.
+Excel for initial data preprocessing and summary statistics.
